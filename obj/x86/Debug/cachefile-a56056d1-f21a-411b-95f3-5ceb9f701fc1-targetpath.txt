@@ -1,0 +1,31 @@
+Content\RetroFX\GlowShader.xnb
+Content\RetroFX\Pixel.xnb
+Content\RetroFX\Scanlines.xnb
+Content\RetroFX\Vignette.xnb
+Content\Levels\Test Level.xnb
+Content\Player Temp 2.xnb
+Content\UI\Energy Bar Segment Left.xnb
+Content\UI\Energy Bar Segment Right.xnb
+Content\UI\Energy Bar Segment Single.xnb
+Content\UI\Energy Bar Segment.xnb
+Content\UI\Health + Energy Icons.xnb
+Content\UI\Health Bar Segment Left.xnb
+Content\UI\Health Bar Segment Right.xnb
+Content\UI\Health Bar Segment Single.xnb
+Content\UI\Health Bar Segment.xnb
+Content\UI\Energy Bar Tick Full.xnb
+Content\UI\Energy Bar Tick.xnb
+Content\UI\Health Bar Tick Full.xnb
+Content\UI\Health Bar Tick.xnb
+Content\Levels\Test Level 2.xnb
+Content\Powerups\Shield-UI.xnb
+Content\UI\Powerup Background.xnb
+Content\Tilesets\Grass\MovingPlatformHorizontal.xnb
+Content\Tilesets\Grass\MovingPlatformVertical.xnb
+Content\Tilesets\Grass\PositionAnchor.xnb
+Content\Tilesets\Grass\Terrain.xnb
+Content\Enemies\Basic\Enemy.xnb
+Content\Powerups\Run\Level.xnb
+Content\Powerups\Sword\UI.xnb
+Content\Powerups\Run\UI.xnb
+Content\Powerups\Sword\Level.xnb

@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>RetroFX\GlowShader.fx</Source>
+      <Name>RetroFX\GlowShader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\RetroFX\GlowShader.xnb</Output>
+      <Time>2011-11-20T13:30:04.8791154-07:00</Time>
+    </Item>
+    <Item>
+      <Source>RetroFX\Pixel.png</Source>
+      <Name>RetroFX\Pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\RetroFX\Pixel.xnb</Output>
+      <Time>2011-11-05T08:23:07.7949804-07:00</Time>
+    </Item>
+    <Item>
+      <Source>RetroFX\Scanlines.png</Source>
+      <Name>RetroFX\Scanlines</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\RetroFX\Scanlines.xnb</Output>
+      <Time>2011-11-05T08:23:07.7969805-07:00</Time>
+    </Item>
+    <Item>
+      <Source>RetroFX\Vignette.png</Source>
+      <Name>RetroFX\Vignette</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\RetroFX\Vignette.xnb</Output>
+      <Time>2011-11-06T09:22:26.3720832-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\Test Level.png</Source>
+      <Name>Levels\Test Level</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\Levels\Test Level.xnb</Output>
+      <Time>2012-01-16T14:47:28.0490899-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Player Temp 2.png</Source>
+      <Name>Player Temp 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\Player Temp 2.xnb</Output>
+      <Time>2011-11-16T14:04:41.4138568-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Energy Bar Segment Left.png</Source>
+      <Name>UI\Energy Bar Segment Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Energy Bar Segment Left.xnb</Output>
+      <Time>2012-01-04T04:32:59.1728831-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Energy Bar Segment Right.png</Source>
+      <Name>UI\Energy Bar Segment Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Energy Bar Segment Right.xnb</Output>
+      <Time>2012-01-04T04:32:59.1748833-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Energy Bar Segment Single.png</Source>
+      <Name>UI\Energy Bar Segment Single</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Energy Bar Segment Single.xnb</Output>
+      <Time>2012-01-04T04:32:59.1758833-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Energy Bar Segment.png</Source>
+      <Name>UI\Energy Bar Segment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Energy Bar Segment.xnb</Output>
+      <Time>2012-01-04T04:32:59.1768834-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Health + Energy Icons.png</Source>
+      <Name>UI\Health + Energy Icons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Health + Energy Icons.xnb</Output>
+      <Time>2012-01-04T04:32:59.1628826-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Health Bar Segment Left.png</Source>
+      <Name>UI\Health Bar Segment Left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Health Bar Segment Left.xnb</Output>
+      <Time>2012-01-04T04:32:59.1638826-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Health Bar Segment Right.png</Source>
+      <Name>UI\Health Bar Segment Right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Health Bar Segment Right.xnb</Output>
+      <Time>2012-01-04T04:32:59.1648827-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Health Bar Segment Single.png</Source>
+      <Name>UI\Health Bar Segment Single</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Health Bar Segment Single.xnb</Output>
+      <Time>2012-01-04T04:32:59.1668828-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Health Bar Segment.png</Source>
+      <Name>UI\Health Bar Segment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Health Bar Segment.xnb</Output>
+      <Time>2012-01-04T04:32:59.1678829-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Energy Bar Tick Full.png</Source>
+      <Name>UI\Energy Bar Tick Full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Energy Bar Tick Full.xnb</Output>
+      <Time>2012-01-04T04:32:59.1588823-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Energy Bar Tick.png</Source>
+      <Name>UI\Energy Bar Tick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Energy Bar Tick.xnb</Output>
+      <Time>2012-01-04T04:32:59.1608825-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Health Bar Tick Full.png</Source>
+      <Name>UI\Health Bar Tick Full</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Health Bar Tick Full.xnb</Output>
+      <Time>2012-01-04T04:32:59.1688829-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Health Bar Tick.png</Source>
+      <Name>UI\Health Bar Tick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Health Bar Tick.xnb</Output>
+      <Time>2012-01-04T04:32:59.169883-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\Test Level 2.png</Source>
+      <Name>Levels\Test Level 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\Levels\Test Level 2.xnb</Output>
+      <Time>2011-12-11T03:23:11.9291144-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerups\Shield-UI.png</Source>
+      <Name>Powerups\Shield-UI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\Powerups\Shield-UI.xnb</Output>
+      <Time>2011-12-12T21:34:16.4845176-07:00</Time>
+    </Item>
+    <Item>
+      <Source>UI\Powerup Background.png</Source>
+      <Name>UI\Powerup Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\UI\Powerup Background.xnb</Output>
+      <Time>2012-01-04T04:32:59.1718831-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Grass\MovingPlatformHorizontal.png</Source>
+      <Name>Tilesets\Grass\MovingPlatformHorizontal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\Tilesets\Grass\MovingPlatformHorizontal.xnb</Output>
+      <Time>2012-01-09T10:26:27.6243628-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Grass\MovingPlatformVertical.png</Source>
+      <Name>Tilesets\Grass\MovingPlatformVertical</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\Tilesets\Grass\MovingPlatformVertical.xnb</Output>
+      <Time>2012-01-09T10:26:27.3333462-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Grass\PositionAnchor.png</Source>
+      <Name>Tilesets\Grass\PositionAnchor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\Tilesets\Grass\PositionAnchor.xnb</Output>
+      <Time>2012-01-08T12:06:54.3543688-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Tilesets\Grass\Terrain.png</Source>
+      <Name>Tilesets\Grass\Terrain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\Tilesets\Grass\Terrain.xnb</Output>
+      <Time>2012-01-09T11:26:14.0844966-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\Basic\Enemy.png</Source>
+      <Name>Enemies\Basic\Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\Enemies\Basic\Enemy.xnb</Output>
+      <Time>2012-01-14T12:18:09.1572783-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerups\Run\Level.png</Source>
+      <Name>Powerups\Run\Level</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\Powerups\Run\Level.xnb</Output>
+      <Time>2011-12-11T00:50:03.5064936-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerups\Sword\UI.png</Source>
+      <Name>Powerups\Sword\UI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\Powerups\Sword\UI.xnb</Output>
+      <Time>2011-12-12T21:34:16.4865177-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerups\Run\UI.png</Source>
+      <Name>Powerups\Run\UI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\Powerups\Run\UI.xnb</Output>
+      <Time>2011-12-13T02:49:06.0669399-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Powerups\Sword\Level.png</Source>
+      <Name>Powerups\Sword\Level</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\Powerups\Sword\Level.xnb</Output>
+      <Time>2012-01-21T12:30:01.678523-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-11-19T17:30:38.3062699-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

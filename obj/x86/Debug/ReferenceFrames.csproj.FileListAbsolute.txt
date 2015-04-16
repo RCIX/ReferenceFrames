@@ -1,0 +1,38 @@
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\RetroFX\Pixel.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\RetroFX\Scanlines.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\Levels\Test Level.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\RetroFX\GlowShader.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\Player Temp 2.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\RetroFX\Vignette.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\ReferenceFrames.exe
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\ReferenceFrames.pdb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\XNAHelpers.dll
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\obj\x86\Debug\ReferenceFrames.exe
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\obj\x86\Debug\ReferenceFrames.pdb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Health Bar Tick.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\Tilesets\Grass\MovingPlatformHorizontal.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Health Bar Segment.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\Tilesets\Grass\Terrain.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Energy Bar Tick.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Health Bar Tick Full.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Energy Bar Segment.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\Levels\Test Level 2.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Powerup Background.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Health Bar Segment Left.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Energy Bar Segment Right.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\Tilesets\Grass\PositionAnchor.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Health + Energy Icons.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Energy Bar Segment Single.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Health Bar Segment Single.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Energy Bar Tick Full.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\Powerups\Shield-UI.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Health Bar Segment Right.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\Tilesets\Grass\MovingPlatformVertical.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\UI\Energy Bar Segment Left.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\Enemies\Basic\Enemy.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\Powerups\Sword\Level.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\Powerups\Run\Level.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\Powerups\Run\UI.xnb
+C:\Users\RCIX\Documents\Visual Studio 2008\Projects\ReferenceFrames\bin\x86\Debug\Content\Powerups\Sword\UI.xnb
